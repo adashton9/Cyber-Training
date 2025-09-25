@@ -1,0 +1,44 @@
+Bandit OTW	
+
+LVL 0
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+LS to find readme then cat readme to find the password
+
+LVL 1
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+ls to find "-" then use cat./- to open the file and find the password
+
+LVL 2
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+cat./--"Spaces in the 
+
+LVL 3
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+LVL 4 
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+find
+
+LVL 5
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+LVL 6
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+LVL 7
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+LVL 8
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+LVL 9
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+LVL 10
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+LVL 11
+dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+LVL 12
+7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+LVL 13 ssh -i bandit14@localhost -p 2220
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+LVL 14- nc localhost 30000
+MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+LVL 15 - ncat --ssl localhost 30001
+8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+LVL 16 
+kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
